@@ -1,5 +1,8 @@
 # -W3-pipelines-project-
 
+![madrid](https://user-images.githubusercontent.com/80899361/114438783-7e520100-9bc8-11eb-9927-cdb85ac0dd5f.png)
+
+
 # Introduction
 What are the most popular monuments near you (Madrid)?
 
@@ -21,8 +24,12 @@ Steps:
 
 # Conclusions
 
-The districts where most appartments are being rented are: Centro, Salamanca y Chamberí.
+- The districts where most appartments are being rented are: Centro, Salamanca y Chamberí.
 
-Most of the appartments are in concurred areas of Madrid: Malasaña, Barrio de las Letras y el Estadio Santiago Bernabeu.
+![top3d](https://user-images.githubusercontent.com/80899361/114438980-bd805200-9bc8-11eb-8b41-e40e05dc1531.png)
+
+- Most of the appartments are in concurred areas of Madrid: Malasaña, Barrio de las Letras y el Estadio Santiago Bernabeu.
+
+
 
 
