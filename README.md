@@ -31,5 +31,15 @@ Steps:
 - Most of the appartments are in concurred areas of Madrid: Malasaña, Barrio de las Letras y el Estadio Santiago Bernabeu.
 
 
+# Libraries
 
+ - numpy
+ - pandas
+ - matplotlib.pyplot
+ - seaborn
+ - statistics 
+ - requests
+ - pandas
+ - json
+ - BeautifulSoup
 
